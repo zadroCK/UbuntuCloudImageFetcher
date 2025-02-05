@@ -7,6 +7,7 @@
 #include <Poco/Net/HTTPRequest.h>
 #include <Poco/Net/HTTPResponse.h>
 #include <Poco/JSON/Parser.h>
+#include <Poco/JSON/Object.h>
 #include <Poco/StreamCopier.h>
 #include <Poco/URI.h>
 
